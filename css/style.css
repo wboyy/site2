@@ -18,7 +18,7 @@ html, body {
 header {
   align-items: center;
   background-attachment: fixed;
-  background-color:#450000;
+  background-color:#40E0D0;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -36,7 +36,7 @@ header {
   animation-duration: 15s;
   animation-iteration-count: infinite;
   animation-name: Avatar;  
-  background-color:#450000;
+  background-color:#40E0D0;
   background-image:url("../imgs/Avatar.jpg");
   background-position:center;
   background-repeat: no-repeat;
@@ -73,7 +73,7 @@ main {
 }
 
 .bar::before {
-  background-color: #450000;
+  background-color: #40E0D0;
   bottom: -10px;
   content: "";
   height: 3px;
@@ -84,7 +84,7 @@ main {
 }
 
 .bar::after{
- background-color: #250000;
+ background-color: #40E0D0;
  bottom: -13px;
  content: "";
  height: 9px;
@@ -112,7 +112,7 @@ main {
 
 footer {
   align-items: center;
-  background-color:#450000;
+  background-color:#40E0D0;
   border: 5px solid #000000;
   border-radius: 20px;
   box-shadow: 10px 10px 0px 0px #250000;
